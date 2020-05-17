@@ -1,23 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <title>王大仙的碎碎念</title>
+    <link>https://blog.zhuochao.wang/</link>
+    <description>Recent content on 王大仙的碎碎念</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2020 11:59:24 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2020 12:54:24 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.zhuochao.wang/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>初始化</title>
-      <link>http://localhost:1313/post/init/</link>
+      <title>久违的失落感</title>
+      <link>https://blog.zhuochao.wang/post/miyang_20200517/</link>
+      <pubDate>Sun, 17 May 2020 22:07:00 +0800</pubDate>
+      
+      <guid>https://blog.zhuochao.wang/post/miyang_20200517/</guid>
+      <description>5月份的中午已经30度了，站在阳台上能感觉到阵阵的热风，整个人都有些疲倦。 昨天就打算好今天带闺女去海洋馆的，谁知错过了年票的时间，只好作罢，</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.zhuochao.wang/about/</link>
+      <pubDate>Sun, 17 May 2020 12:54:24 +0800</pubDate>
+      
+      <guid>https://blog.zhuochao.wang/about/</guid>
+      <description>我是一个什么样的人呢？</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.zhuochao.wang/post/init/</link>
       <pubDate>Sun, 17 May 2020 11:59:24 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/init/</guid>
-      <description>asasaa</description>
+      <guid>https://blog.zhuochao.wang/post/init/</guid>
+      <description>又一次把blog搭建了起来，这次就不立什么Flag了，哈哈。 能把想的写出来，并且别人看明白是一个很重要的技能，这点我一直很认可，这次的blo</description>
     </item>
     
   </channel>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自己 on 王大仙的碎碎念</title>
+    <link>https://blog.zhuochao.wang/tags/%E8%87%AA%E5%B7%B1/</link>
+    <description>Recent content in 自己 on 王大仙的碎碎念</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 May 2020 11:59:24 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.zhuochao.wang/tags/%E8%87%AA%E5%B7%B1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://blog.zhuochao.wang/post/init/</link>
+      <pubDate>Sun, 17 May 2020 11:59:24 +0800</pubDate>
+      
+      <guid>https://blog.zhuochao.wang/post/init/</guid>
+      <description>又一次把blog搭建了起来，这次就不立什么Flag了，哈哈。 能把想的写出来，并且别人看明白是一个很重要的技能，这点我一直很认可，这次的blo</description>
+    </item>
+    
+  </channel>
+</rss>
